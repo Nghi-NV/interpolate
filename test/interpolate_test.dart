@@ -1,6 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-
-import 'package:interpolate/interpolate.dart';
+import 'package:interpolate_animated/interpolate_animated.dart';
 
 void main() {
   test('output value with extrapolate is extend', () {

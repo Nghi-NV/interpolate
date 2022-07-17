@@ -1,4 +1,4 @@
-import 'package:interpolate/interpolate.dart';
+import 'package:interpolate_animated/interpolate_animated.dart';
 
 void main() {
   final inputs = [0.0, 1.0];

@@ -1,8 +1,8 @@
-name: interpolate
+name: interpolate_animated
 description: Sometimes you need to map value from one range to another. This is where you should use interpolate functions which approximates values between points in the output range and lets you map value inside the input range to corresponded approximation in the output range. It also supports few types of Extrapolation to enable mapping outside the range.
 version: 0.0.1
 homepage: https://github.com/Nghi-NV/interpolate
-author: Nghi Nguyen
+maintainer: nghinv (@Nghi-NV)
 license: MIT
 
 environment:
